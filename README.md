@@ -1,6 +1,6 @@
-Z-LOGO
+U-LOGO
 ======
 
-浙江大学校徽生成器，两年前写的一个鸡肋的小东西，界面和代码都特挫，开源主要是为了敦促自己重写它 :)
+电子科技大学校徽生成器
 
-展示页面 www.imsun.net/project/Z-LOGO
+展示页面 www.hellofanfan.com/uestclogo
